@@ -1,9 +1,7 @@
-- 👋 Olá, eu sou @GUGTs-Guhh
+- 👋 Olá, eu sou @HeyGuhh
 - 👀 Estou interessado em programação de jogos e Inteligências Artificiais
 - 🌱 Atualmente estou aprendendo a criar bot no discord
 - 💞️ Estou procurando colaborar em Inteligências avançadas que podem ajudar no futuro do meu país
-- 📫 como entrar em contato comigo: 
-canal no youtube: https://www.youtube.com/channel/UCTWGWwlHNSofEjLA70CTGvw
 servidor discord: (em breve)
 
 <!---

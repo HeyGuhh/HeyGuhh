@@ -1,7 +1,6 @@
 <h2>• HeyGuhh</h2> 
 Um pequeno desenvolvedor de <a href="https://top.gg/bot/699104095503384637/vote">Bots</a> & <a href="https://guhhschool.github.io/transformando-o-mundo">Sites</a><br> <br>
-Conta Principal: <a href="https://github.com/HeyGuhh">@HeyGuhh </a> <br>
-Conta Estudantil: <a href="https://github.com/GuhhSchool">@GuhhSchool </a>
+<img src="./HeyGuhh.png" style="width: 30vw">
 
 <br>
 <hr>

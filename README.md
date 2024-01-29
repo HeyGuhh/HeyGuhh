@@ -1,9 +1,13 @@
-- 👋 Olá, eu sou [@HeyGuhh](https://github.com/HeyGuhh)
-- 👀 Estou interessado em programação de jogos e Inteligências Artificiais
-- 🌱 Atualmente estou aprendendo a criar bot no discord
-- 💞️ Estou procurando colaborar em Inteligências avançadas que podem ajudar no futuro do meu país
+<h2>• HeyGuhh</h2> 
+Um pequeno desenvolvedor de <a href="https://top.gg/bot/699104095503384637/vote">Bots</a> & <a href="https://guhhschool.github.io/transformando-o-mundo">Sites</a><br> <br>
+Conta Principal: <a href="https://github.com/HeyGuhh">@HeyGuhh </a> <br>
+Conta Estudantil: <a href="https://github.com/GuhhSchool">@GuhhSchool </a>
 
-<!---
-GUGTs-Guhh/GUGTs-Guhh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<br>
+<hr>
+<h3> Acredito que...</h3>
+<li> Organização nunca é demais </li>
+<li> Excesso de informações na tela polui </li>
+<li> Inteligências Artificiais (IA) vão se destacar </li>
+<li> Programação exige silencio </li>
+<li> Coisas básicas terão um preço (menos com <a href="https://www.google.com">Google</a>💙)</li>
